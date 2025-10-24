@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning+New+Things;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/quanhpam?style=social)](https://github.com/quanhpam)
-[![GitHub stars](https://img.shields.io/github/stars/quanhpam?style=social)](https://github.com/quanhpam)
-![Profile Views](https://komarev.com/ghpvc/?username=quanhpam&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/Quanhpm?style=social)](https://github.com/Quanhpm)
+[![GitHub stars](https://img.shields.io/github/stars/Quanhpm?style=social)](https://github.com/Quanhpm)
+![Profile Views](https://komarev.com/ghpvc/?username=Quanhpm&color=blue)
 
 </div>
 
@@ -17,13 +17,14 @@
 - 💻 Passionate about **Web Development**
 - 🌱 Currently learning **Next.js** and **TypeScript**
 - ⚡ Fun fact: I turn coffee into code ☕
+- 🎹 I write code and play notes — both need harmony.
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=java,tailwind,sass,bootstrap,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,tailwind,sass,bootstrap,git,github,figma" />
 </p>
 
 ## 📊 GitHub Stats
@@ -40,23 +41,38 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/quanhpam">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+  <a href="mailto:quocanhdang02@gmail.com" >
+    <img align="center" alt="quanh | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/quocanh.dang.79069/" target="_blank">
+      <img align="center" alt="quanh | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/phamquanh__/" target="_blank">
+    <img align="center" alt="quanh | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://profile-summary-for-github.herokuapp.com/user/Quanhpm" target="_blank">
+    <img align="center" alt="quanh | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+<p> 
 
 ---
+## 🐍 My GitHub Snake 
+
+<p align="center">
+  <img src="https://github.com/Quanhpm/Quanhpm/blob/output/snake.svg" alt="Snake animation" />
+</p>
 
 <div align="center">
   
-**Thanks for visiting!** 😊
+**Thanks for visiting!** 
 
-![Snake animation](https://github.com/quanhpam/quanhpam/blob/output/github-contribution-grid-snake.svg)
+�
+
+
+
 
 </div>
