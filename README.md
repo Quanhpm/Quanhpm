@@ -27,15 +27,18 @@
   <img src="https://skillicons.dev/icons?i=java,tailwind,sass,bootstrap,git,github,figma" />
 </p>
 
-## 📊 GitHub Stats
+## 📈  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quanhpm&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanhpm&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quanhpm&show_icons=true&theme=tokyonight&hide_border=true&show=reviews"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Quanhpm&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
+  <div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Quanhpm&ayout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400&hide=html,css,scss,handlebars" />
+  </div>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanhpam&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&width=435&lines=Thanks+for+watching+my+profile!">
 </p>
 
 ## 🤝 Connect With Me
