@@ -1,12 +1,15 @@
 name: Generate Snake Animation
 
 on:
+  # Chạy tự động mỗi ngày vào 0h UTC (7h sáng Việt Nam)
   schedule:
-    - cron: "0 0 * * *" # chạy mỗi ngày lúc 00:00 UTC
+    - cron: "0 0 * * *"
+  # Cho phép chạy thủ công
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+# Cấp quyền ghi cho GitHub Actions
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -14,13 +17,13 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate snake game from contributions
         uses: Platane/snk@v3
         with:
-          github_user_name: quanhpm
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: Quanhpm
+          outputs: dist/snake.svg
 
       - name: Push generated snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
